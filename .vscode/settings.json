@@ -1,0 +1,8 @@
+{
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
+  "cSpell.words": ["Azizbek", "Merried", "nodjs", "xamidullo"],
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  }
+}
